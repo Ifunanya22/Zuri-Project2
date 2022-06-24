@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body{
+ background-color: hsl(0, 100%, 74%);
+  padding: 10em;
+   background-image: url("bg-intro-desktop.png"); 
+  background-position: center;
+  background-size: cover;
+}
+
+
+.top-content{
+  background-color: blueviolet;
+  padding: 1em;
+  text-align: center;
+  }
+ 
